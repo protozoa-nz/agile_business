@@ -32,9 +32,11 @@ pre-flight checks, radio protocol, hierarchy
 
 ---
 
-# Design Process
+# Natural History
 
-![](design_process.jpg)
+![](natural_history_text.jpg)
+
+(old science)
 
 ---
 
@@ -44,11 +46,61 @@ pre-flight checks, radio protocol, hierarchy
 
 ---
 
+# Science
+
+![](scientific_method_text.jpg)
+
+---
+
+# Design Process
+
+![](design_process.jpg)
+
+---
+
+# Design Process
+
+![](design_process_text.jpg)
+
+---
+
+
 # Agile software dev
 
-![](agile.jpg)
+![](agile_0.jpg)
 
+---
 
+# Agile software dev
 
+![](agile_1.jpg)
 
+---
 
+# Agile software dev
+
+![](agile_2.jpg)
+
+---
+
+# Agile software dev
+
+![](agile_3.jpg)
+
+---
+
+# Agile software dev
+
+![](agile_4.jpg)
+
+---
+
+# Agile software dev
+
+![](agile_5.jpg)
+
+---
+
+# Agile software dev
+
+![](agile_6.jpg)
